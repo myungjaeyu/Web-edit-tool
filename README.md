@@ -1,12 +1,13 @@
-# EditTool
+# Web-EditTool
 
 ![Alt text](https://drive.google.com/uc?export=view&id=0B3XkfYbZArSfSXV5MG9Ia241eFU)
-![Alt text](https://drive.google.com/uc?export=view&id=0B3XkfYbZArSfVUVfRXhZRFRSNGM)
+![Alt text](https://drive.google.com/uc?export=view&id=0B3XkfYbZArSfT3dkbVo4WHhLQlU)
+![Alt text](https://drive.google.com/uc?export=view&id=0B3XkfYbZArSfcWt5Q0dYakZOX1E)
 
 
 ## Usage
 ```html
-<script src="edit-tool.min.js"></script>
+<script src="editool.min.js"></script>
 ```
 
 ```html
@@ -14,6 +15,6 @@
 ```
 
 ```javascript
-var site = new EditTool( document.getElementById('wrapper') );
+var site = new EdiTool( document.getElementById('wrapper') );
 site.view(data); // HTTP Link , JSON Object, JSON String
 ```
